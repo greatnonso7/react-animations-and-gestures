@@ -69,3 +69,5 @@ const LoadAssets = ({ assets, fonts, children }: LoadAssetsProps) => {
     </NavigationContainer>
   )
 }
+
+export default LoadAssets;

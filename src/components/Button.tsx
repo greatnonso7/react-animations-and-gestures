@@ -36,3 +36,5 @@ const Button = ({ label, primary, onPress}: ButtonProps) => {
     </RectButton>
   )
 }
+
+export default Button;
